@@ -1,7 +1,7 @@
 ---
 title: "Installation"
 date: 2019-04-08
-draft: true
+draft: false
 order: 1
 ---
 
