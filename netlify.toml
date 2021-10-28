@@ -4,4 +4,4 @@
 
 [build.environment]
   HUGO_VERSION = "0.86.0"
-  HUGO_BASEURL = "/"
+  HUGO_BASEURL = "https://tutorials-hugo.netlify.app"

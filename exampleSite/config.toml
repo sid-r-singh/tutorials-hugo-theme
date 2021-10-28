@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 title = "Julien Renaux's codelabs"
-theme = "codelabs"
+theme = "tutorials-hugo-theme"
 googleAnalytics = ""
 
 [params]
