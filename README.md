@@ -1,4 +1,4 @@
-# codelabs theme
+# Codelabs Hugo theme
 
 ![Intro](https://github.com/shprink/gohugo-theme-codelabs/blob/master/images/codelabs_original.png)
 
