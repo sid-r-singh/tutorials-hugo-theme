@@ -24,18 +24,9 @@ Add this line  in the `config.toml` file:
 theme = "codelabs"
 ```
 
-### Configuration
-
-TBD
-
 ## License
 
 This theme is released under the [**MIT**](/LICENSE) License.
----
----
-# Features (TO be done)
-
-Bug or feature request? File it [here](https://github.com/googlecodelabs/tools/issues).
 
 ## Getting Started
 
